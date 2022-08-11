@@ -1,3 +1,10 @@
+[1121]
+last_change = 1660260694
+addr = 4385
+func_addr = 4352
+comment = "ooooooooooooo"
+decompiled = true
+
 [1188]
 last_change = 1660260621
 addr = 4488
@@ -10,11 +17,4 @@ last_change = 1660260588
 addr = 4785
 func_addr = 4352
 comment = "ddjdjdj"
-decompiled = true
-
-[15d3]
-last_change = 1660260687
-addr = 5587
-func_addr = 4352
-comment = "kkkoooooooo"
 decompiled = true
