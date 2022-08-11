@@ -1,0 +1,16 @@
+[metadata]
+name = "vvv"
+size = 12
+last_change = 1660260945
+
+[members.0]
+member_name = "field_0"
+offset = 0
+type = ""
+size = 4
+
+[members.4]
+member_name = "field_4"
+offset = 4
+type = ""
+size = 8
