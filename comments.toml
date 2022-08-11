@@ -5,13 +5,6 @@ func_addr = 4352
 comment = "ooooooooooooo"
 decompiled = true
 
-[1162]
-last_change = 1660260707
-addr = 4450
-func_addr = 4352
-comment = "pppp"
-decompiled = true
-
 [1188]
 last_change = 1660260621
 addr = 4488
